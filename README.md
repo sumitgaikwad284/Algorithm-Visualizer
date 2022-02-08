@@ -9,7 +9,4 @@
 ### This is built using HTML, CSS, JavaScript <br/>
 
 [Check out the website here](https://sumitgaikwad284.github.io/Algorithm-Visualizer/)
-
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+ 
